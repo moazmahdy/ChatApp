@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ALL/3uTools/ChatApp/app/src/main/res/drawable-anydpi/button_background_color.xml" value="0.148" />
+        <entry key="..\:/ALL/3uTools/ChatApp/app/src/main/res/drawable-ldpi/bg_recieved_message.xml" value="0.1485" />
+        <entry key="..\:/ALL/3uTools/ChatApp/app/src/main/res/drawable-ldpi/bg_sent_message.xml" value="0.1485" />
+        <entry key="..\:/ALL/3uTools/ChatApp/app/src/main/res/drawable/rounded_primary.xml" value="0.1485" />
+        <entry key="..\:/ALL/3uTools/ChatApp/app/src/main/res/drawable/rounded_stroke_send_message.xml" value="0.1485" />
+        <entry key="..\:/ALL/3uTools/ChatApp/app/src/main/res/layout/activity_add_room.xml" value="0.25" />
+        <entry key="..\:/ALL/3uTools/ChatApp/app/src/main/res/layout/activity_chat.xml" value="0.264" />
+        <entry key="..\:/ALL/3uTools/ChatApp/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/ALL/3uTools/ChatApp/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/ALL/3uTools/ChatApp/app/src/main/res/layout/activity_register.xml" value="0.24003707136237257" />
+        <entry key="..\:/ALL/3uTools/ChatApp/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/ALL/3uTools/ChatApp/app/src/main/res/layout/item_message_recieved.xml" value="0.25" />
+        <entry key="..\:/ALL/3uTools/ChatApp/app/src/main/res/layout/item_message_senr.xml" value="0.25" />
+        <entry key="..\:/ALL/3uTools/ChatApp/app/src/main/res/layout/item_message_sent.xml" value="0.12158054711246201" />
+        <entry key="..\:/ALL/3uTools/ChatApp/app/src/main/res/layout/item_room.xml" value="0.24895833333333334" />
+        <entry key="..\:/ALL/3uTools/ChatApp/app/src/main/res/layout/item_spinner_catigory.xml" value="0.24895833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
